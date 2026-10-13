@@ -1,0 +1,3 @@
+processor,physical_qubits,logical_depth,transpiled_depth,logical_cx,transpiled_cx,cx_overhead,swap_count_final_basis,rz_count,sx_count,x_count,total_gates
+A,5,6,15,3,3,0,0,24,24,0,54
+B,9,6,15,3,3,0,0,24,24,0,54

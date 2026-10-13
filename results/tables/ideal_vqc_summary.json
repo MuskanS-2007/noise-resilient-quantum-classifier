@@ -1,0 +1,13 @@
+{
+  "optimizer": "COBYLA",
+  "seed": 42,
+  "maxiter": 80,
+  "training_samples": 160,
+  "testing_samples": 40,
+  "train_accuracy": 0.7625,
+  "test_accuracy": 0.775,
+  "final_loss": 0.5213209901730849,
+  "function_evaluations": 80,
+  "optimizer_success": false,
+  "optimizer_message": "Return from COBYLA because the objective function has been evaluated MAXFUN times."
+}

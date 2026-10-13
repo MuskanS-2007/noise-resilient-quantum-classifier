@@ -1,0 +1,30 @@
+[
+  {
+    "processor": "A",
+    "physical_qubits": 5,
+    "logical_depth": 6,
+    "transpiled_depth": 15,
+    "logical_cx": 3,
+    "transpiled_cx": 3,
+    "cx_overhead": 0,
+    "swap_count_final_basis": 0,
+    "rz_count": 24,
+    "sx_count": 24,
+    "x_count": 0,
+    "total_gates": 54
+  },
+  {
+    "processor": "B",
+    "physical_qubits": 9,
+    "logical_depth": 6,
+    "transpiled_depth": 15,
+    "logical_cx": 3,
+    "transpiled_cx": 3,
+    "cx_overhead": 0,
+    "swap_count_final_basis": 0,
+    "rz_count": 24,
+    "sx_count": 24,
+    "x_count": 0,
+    "total_gates": 54
+  }
+]

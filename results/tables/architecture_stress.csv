@@ -1,0 +1,3 @@
+processor,logical_depth,transpiled_depth,logical_cx,transpiled_cx,cx_overhead,final_basis_swap
+A,5,11,4,7,3,0
+B,5,8,4,4,0,0

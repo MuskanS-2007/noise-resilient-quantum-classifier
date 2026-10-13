@@ -1,0 +1,16 @@
+[
+  {
+    "processor": "A",
+    "shots": 4096,
+    "accuracy": 0.8,
+    "correct": 32,
+    "total": 40
+  },
+  {
+    "processor": "B",
+    "shots": 4096,
+    "accuracy": 0.8,
+    "correct": 32,
+    "total": 40
+  }
+]
